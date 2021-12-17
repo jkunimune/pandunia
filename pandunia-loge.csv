@@ -201,7 +201,7 @@ Australia|desha|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Austral
 Austronesi||||Austronesia|Austronésie|Austronesia|Austronésia|Австронезия||南岛|オーストロネシア|오스트로네시아|||||||Aŭstronezio|Austronesia|
 auto|||ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|self (identity)||mismo (yo)|||||自己|||||||||itseys|jaźń (tożsamość)
 auto krati||||autocracy (monarchy)||autocratia (monarquía)|||||君主制|||||||||yksinvaltius (autokratia, monarkia)|monarchia
-auto loga||||monolog|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
+auto loga||||monologue|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
 auto move||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
 auto nomi||||autonomy||autonomía||||||||||||||itsehallinto (autonomia)|autonomia
 auto nomi di||||autonomous||autónomo||||||||||||||autonominen|autonomiczny
@@ -1025,6 +1025,7 @@ fa komputa||||compute (to process data)||calcular (computar)||||||||||||||käsit
 fa komun||||share||compartir (tener en común)||||||||||||||jakaa yhteiseksi|dzielić (współdzielić)
 fa kon sabe||||communicate (inform about)||comunicar (informar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
 fa kopi||||copy (replicate)||copiar|||||||||||||kopii|kopioida (jäljentää)|kopiować, replikować
+fa korte||||shorten||acortar (abreviar)|||||||||||||mallongigi|lyhentää|skrócić, skracać
 fa koste|||eng:cost, spa:costar, por:custar, fra:coûter, deu:kosten|cost||costar||||||||||||||maksaa (olla hintana)|kosztować
 fa krus fikse||||crucify||crucificar||||||||||||||ristiinnaulita|ukrzyżować
 fa kung||||pierce (perforate, bore)||perforar (agujerar)||пробиться|||染みる (貫通する)|||||||||rei’ittää|przebić (perforować, dziurawić)
@@ -2141,7 +2142,6 @@ korne nos|bio|Rhinocerotidae||rhinoceros||rinoceronte||носорог|||||||||||
 korona|||fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|crown|couronne|corona||корона|||||||||||krono|kruunu|korona
 korona virus||||corona virus|||||||||||||||krunviruso|koronavirus|koronawirus
 korte|||spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|short (brief)||corto (breve)|||||||||||||mallonga|lyhyt|krótki
-korte fa||||shorten||acortar (abreviar)|||||||||||||mallongigi|lyhentää|skrócić, skracać
 korte kata||||short story|nouvelle (récit court)|cuento (relato corto)|conto|новелла||短篇小说|短編小説|단편 소설||लघुकथा||cerita pendek (cerpen)||kısa öykü|novelo|novelli|
 korte krokodil|bio|Alligator||alligator|alligator|caimán (aligátor, yacaré)|aligátor (jacaré)|аллигатор||短吻鳄|アリゲーター||||||||||aligator
 kosmo|||rus:космос (kosmos), eng:fra:spa:cosmos|space (cosmos, universe)|cosmos|cosmos|cosmo|космос||宇宙||||ब्रह्मांड||alam semesta||evren||avaruus (kosmos)|kosmos, wszechświat
@@ -2352,7 +2352,7 @@ long tire||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть
 lote|||por:spa:lote, eng:fra:lot|batch (lot)||lote (grupo)||||||||||||||erä (satsi)|wsad, partia, porcja, seria
 lotra|bio|Lutrinae|eng:otter + fra:loutre, spa:tgl:lutrino, por:lontra + rus:выдра (vydra)|otter|loutre|nutria|lontra|выдра||獭|獺||||||||||wydra
 lou|||zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)|leak||chorrear|vazar|протекать (просочиться)||漏|漏る||||||||liki|vuotaa|przeciekać, ciec
-lou sang||||bleed||sangrar|||||||||||||sangi|vuotaa verta|krwawić
+lou sange||||bleed||sangrar|||||||||||||sangi|vuotaa verta|krwawić
 luka|nomer|6|zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
 luka fase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
 luka gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
@@ -2582,7 +2582,7 @@ minim|||eng:fra:minimum, spa:por:mínimo, deu:Minimum, rus:ми́нимум (mí
 minim di||||minimal||mínimo||||||||||||||vähimmäis-|minimal
 minim sim|||eng:minimalism, spa:por:minimalismo, fra:minimalisme, rus:минимали́зм (minimalízm)|minimalism||minimalismo||||||||||||||minimalismi|minimalizm
 ministre ja|||eng:minister, spa:por:ministro, fra:ministre, rus:мини́стр (minístr) + hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri|minister||ministro|||||||||||||ministro|ministeri|minister
-ministre ofis||||ministry||ministerio||||||||||||||ministeriö|ministry
+ministre buro||||ministry||ministerio||||||||||||||ministeriö|ministry
 minor|||eng:minor, por:spa:menor, fra:mineur, rus:минорный (minornyy)|minor (not major)||menor (leve)||||||||||||||vähäinen|mniejszościowy
 minta|bio|Mentha|eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|mint|menthe|menta|hortelã|мята||薄荷|ハッカ|||pudinaa||pudina|mnanaa||||mięta
 minute|||eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit|minute||minuto|||||||||||||minuto|minuutti|minuta
@@ -3238,7 +3238,7 @@ riche|||eng:rich, fra:riche, por:spa:rico|rich|riche|rico||||||||||||||rikas|bog
 riche ta||||wealth (fortune)|||||||||||||||||bogactwo (fortuna, majątek)
 rim|||spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim|rhyme (verse)|rime|rima|rima|рифма||||||||||||säe (riimi)|rym (wers)
 ring|||eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)|ring|anneau|anillo|anel|||环 (轮)|輪|고리|vòng|||cincin (ring)||halka||rengas (kehä)|pierścień
-ringar||||ring (sports or exhibition arena)|ring (manège)|ring|ringue|ринг (манеж)||擂台|リング|링||रिंग||||||kehä (ottelualue)|
+ring estade||||ring (arena)|ring (manège)|ring|ringue|ринг (манеж)||擂台|リング|링||रिंग||||||kehä (ottelualue)|
 ris|||tam:அரிசி (arisi), ara:(ʾaruzz), spa:por:arroz, orm:ruuzii, fra:riz, rus:рис (ris), eng:rice, deu:Reis|rice|riz|arroz|arroz|рис||米|米 (ご飯)|||चावल||nasi (padi)|||rizo|riisi|ryż
 ris araki||||arrack||||||||||||arak||||arrakki|
 ris biskute||||rice cake (puffed rice cake)||||||||||||||||riisikakku|
@@ -4077,7 +4077,7 @@ Yesa Mesi||||Jesus Christ|Jésus-Christ|Jesucristo|Jesus Cristo|Иисус Хр�
 yezi|bio|Cocos nucifera|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|coconut tree||coco|||||||||||||kokoso|kookos|kokos
 yo|||zho:有 (yǒu), yue:有 (jau5)|some (one)||algún|||||何分の||||||||iu|jokin (joku)|jakiś
 yo jen||||someone (somebody)||algién|||||||||||||iu persono|joku|ktoś
-yo sate||||sometime||algún día (algún vez)|||||||||||||iam|joskus|sometime
+yo sata||||sometime||algún día (algún vez)|||||||||||||iam|joskus|sometime
 yo she||||something||algo|||||||||||||io|jokin|coś
 yoga|||hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|yoga||yoga||йога||瑜伽功|||||||||jogo|jooga|joga
 yoga ja||||yogi||yogui||||||||||||||joogi|jogin (joginka)
