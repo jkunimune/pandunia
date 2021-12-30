@@ -1430,7 +1430,7 @@ gau ta||||height (altitude)||altura (altitud)||||||||||||||korkeus|wysokość
 gau tal||||vertical||vertical||||||||||||||pystysuuntainen|pionowy
 gau tal move||||bob up and down||inclinar|||||浮き沈みする|||||||||liikkua ylös ja alas|
 gau tanur||||blast furnace||||||||||||||||masuuni|wielki piec
-gau tehni||||high technology (hi-tech)|hautes technologies|||высокие технологии||高科技 (高技术)|ハイテク|하이테크||||||||korkea teknologia|
+gau tekni||||high technology (hi-tech)|hautes technologies|||высокие технологии||高科技 (高技术)|ハイテク|하이테크||||||||korkea teknologia|
 gaze|||deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze|gauze||gasa|||||||||||||gazo|harso|gaza
 gazel|bio||ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|gazelle|gazelle|gacela||газель|||ガゼル||||||||gazelo|gaselli|gazela
 gazeta|||eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|magazine (journal, gazette)||revista (periódico, gaceta)||газета|||||||||gazeti|gazete|gazeto (revuo)|lehti (sanomalehti)|magazyn, dziennik, gazeta
@@ -1676,7 +1676,7 @@ hogo san||||volcano|volcan|volcán|vulcão|вулкан||火山|火山|||||||||t
 hogo san kancha||||volcanic glass||vidrio volcánico||||||||||||||vulkaaninen lasi|szkło wulkaniczne
 hogo sanduku||||lantern||farol (linterna)|||||||||||||lanterno|lyhty|latarnia
 hogo seku||||flint|silex|pedernal (sílex)|pederneira|кремень||燧石|火打ち石 (フリント)|||चक़मक़||||||piikivi|krzemień
-hogo tehni||||fireworks (pyrotechnics)|feu d’artifice|dispositivo pirotécnico|fogos de artifício|фейерверк||烟火|花火|||||||||pyrotekniikka|pirotechnika
+hogo tekni||||fireworks (pyrotechnics)|feu d’artifice|dispositivo pirotécnico|fogos de artifício|фейерверк||烟火|花火|||||||||pyrotekniikka|pirotechnika
 hoki|||eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|hockey|hockey|hockey|hóquei|хоккей||曲棍球|ホッケー|khúc côn cầu||हाकी|হকি|hoki||hokey|hokeo|hockey (jääkiekko)|hokej
 holera|||eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), tur:kolera, ara:كُولِيرَا‎ (kōlīrā), hin:कॉलरा (kŏlrā), zho:虎列拉 (hǔlièlā), jpn:コレラ (korera)|cholera||cólera||||||||||||||kolera|cholera
 holme yum|yum 067|Ho|eng:holmium, fra:holmium, spa:holmio, por:hólmio, rus:гольмий, zho:钬 (huǒ), jpn:ホルミウム, kor:홀뮴, vie:honmi, hin:होल्मियम, ben:হলমিয়াম, may:holmium, swa:homi, ara: هلميوم|holmium|holmium|holmio|hólmio|гольмий|هلميوم|钬|ホルミウム|홀뮴|holmi, honmi|होल्मियम|হলমিয়াম|holmium|homi|holmiyum|holmio|holmium|holm
@@ -1973,7 +1973,7 @@ karbon|yum 006|C|eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, 
 karbon duokside||||carbon dioxide|dioxyde de carbone|dióxido de carbono|dióxido de carbono|двуокись углерода||二氧化碳||||प्रांगार द्विजारेय|||||karbona dioksido|hiilidioksidi|dwutlenek węgla
 karbon kalam||||pencil|crayon|lápiz|lápis|карандаш||铅笔|鉛筆|연필|bút chì|अंकनी (पेंसिल)|অঙ্কনী (পেনসিল)|pensil|penseli|kurşun kalem|krajono|lyijykynä|
 karbon sui||||carbohydrate (saccharide)||carbohidrato||углевод|||炭水化物||||||||||
-karchof|bio|Cynara cardunculus var. scolymus|ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch|globe artichoke|artichaut|alcachofera|alcachofra|артишок посевной||菜蓟|アーティチョーク||||||||||karczoch zwyczajny
+karchofa|bio|Cynara cardunculus var. scolymus|ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch|globe artichoke|artichaut|alcachofera|alcachofra|артишок посевной||菜蓟|アーティチョーク||||||||||karczoch zwyczajny
 kardon|bio||spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)|thistle|chardon|cardo|cardo|расторопша||蓟|アザミ||||||||||oset
 kardon karchof|bio|Cyara cardunculus||artichoke thistle (cardoon)|cardon|||артишок испанский (кардон)||刺苞菜蓟|カルドン||||||||||karczoch hiszpański
 karga|||spa:por:carga, eng:cargo, may:kargo|charge (burden, load, weight)|charge (fardeau, poids)|carga (pesa)|carga (peso)|бремя (товар, груз, ноша)||擔子||바리 (짐)||||||yük||kuorma (lasti, taakka)|ciężar (brzemię)
@@ -2389,8 +2389,10 @@ ma su ma||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||ä
 ma su pa||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
 Madagasi|desha|MG||Madagascar||Madagascar||||||||||||||Madagaskar|Madagaskar
 madagasi di||||Malagasy||malgache||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
-maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
-magen yum|yum 012|Mg|eng:magnesium, fra:magnésium, spa:magnesio, por:magnésio, rus:магний, zho:镁 (měi), jpn:マグネシウム, kor:마그네슘, vie:magiê, hin:मैग्नेशियम, ben:ম্যাগনেসিয়াম, may:magnesium, swa:magnesi, ara: مغنيسيوم|magnesium|magnésium|magnesio|magnésio|магний|مغنيسيوم|镁|マグネシウム|마그네슘|magiê|मैग्नेशियम|ম্যাগনেসিয়াম|magnesium|magnesi|magnezyum|magnezio|magnesium|magnez
+mafe|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
+magnete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
+magnete di||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
+magnete yum|yum 012|Mg|eng:magnesium, fra:magnésium, spa:magnesio, por:magnésio, rus:магний, zho:镁 (měi), jpn:マグネシウム, kor:마그네슘, vie:magiê, hin:मैग्नेशियम, ben:ম্যাগনেসিয়াম, may:magnesium, swa:magnesi, ara: مغنيسيوم|magnesium|magnésium|magnesio|magnésio|магний|مغنيسيوم|镁|マグネシウム|마그네슘|magiê|मैग्नेशियम|ম্যাগনেসিয়াম|magnesium|magnesi|magnezyum|magnezio|magnesium|magnez
 magi|||fas: مغ‎ (moğ), ara: مُوغِيّ‎ (mūḡiyy), ell:μάγος (magos), eng:magic, fra:magie, spa:por:magia, rus:магия (magiya) + zho:魔 (mó), jpn:魔 (ma), kor:마 (ma), vie:ma|magic||magia|||||||||||||magio|taikuus (magia)|magia
 magi asar||||spell (enchantment)||||||||||||||||taika|zaklecie
 magi di||||magical||magical||||||||||||||taianomainen (maaginen)|magiczny
@@ -2426,8 +2428,6 @@ man gami||||husband||esposo|esposo|||||||||||||aviomies|małżonek
 man raja||||king|roi|rey|rei|король|مَلِك‎|王|王様|임금 (왕)|vua (quốc vương)|राजा|রাজা|raja|mfalme|kral|reĝo|kuningas|król
 mana|||ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|meaning (signification)||significado (acepción)||||意义|||||||||signifo|merkitys|znaczenie
 manera|||fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren|behavior (manners)|comportement (manière)|comportamiento (conducta)|comportamento (conduta)|поведение (манера)||方式|||||||||maniero (konduto)|käytös (käyttäytyminen, tapa, tavat)|zachowanie (maniery, kultura)
-manete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
-manete di||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 mang|||zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|busy (occupied)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
 mangan|yum 025|Mn|eng:manganese, fra:manganèse, spa:manganeso, por:manganésio, rus:марганец, zho:锰 (měng), jpn:マンガン, kor:망가니즈, vie:mangan, hin:मैंगनीज, ben:ম্যাঙ্গানিজ, may:manggan, swa:manganisi, ara: منجنيز|manganese|manganèse|manganeso|manganésio|марганец|منجنيز|锰|マンガン|망간|mangan|मैंगनीज|ম্যাঙ্গানিজ|manggan|manganisi|mangan|mangano|mangaani|mangan
 mango|bio||mal:മാങ്ങ (māṅṅa), eng:spa:tur:mango, por:manga, rus:манго (mango), may:mangga, jpn:マンゴー (mangō), kor:망고 (manggo)|mango||mango||||||||||||||mango|mango
@@ -2525,7 +2525,7 @@ meme kesha||||wool (fleece)|laine||||||||||||||||wełna (runo owcze)
 memo|||eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)|mémoire|memoria|memória|память|ذَاكِرَة|记忆 (记性)|記憶|기억|trí nhớ (ký ức)|याद|স্মৃতি|ingatan|kumbukumbu|hafıza|memoro|muisti|pamięć
 memo bina||||monument (memorial)||monumento|||||追悼塔 (碑)||||||||||pomnik (memoriał)
 memo note||||memorandum (memo)||memorándum (nota)||меморандум||||||||||||muistio (muistiinmerkintä)|notatka, memo
-memo tehni||||mnemotechny||||||||||||||||muistitekniikka|
+memo tekni||||mnemotechny||||||||||||||||muistitekniikka|
 mena|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
 mendelef yum|yum 101|Md|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|mendelevium|mendélévium|mendelevio|mendelévio|менделевий|مندلفيوم|钔|メンデレビウム|멘델레븀|menđelevi|मेण्डेलीवियम|মেন্ডেলিভিয়াম|mendelevium|mendelevi|mendelevyum||mendelevium|
 meninge|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)|méninge|meninge|meninge|||脑脊膜||||||||||aivokalvo|opona mózgowa
@@ -2864,7 +2864,6 @@ Oberon|planete 7 lun 5|||Oberon|||||||||||||||||
 Oceania||||Oceania||Oceanía|||||||||||||Oceanio|Oseania|Oceania
 Odisa|nas|||Odia (Oriya)||oriya||||||||||||||orija (eräs intialainen kieli)|orija
 oganeson|yum 118|Og|eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬|oganesson|oganesson|oganesón|oganesson|оганесон|||オガネソン|우누녹튬||||oganesson|||oganesono|oganesson|oganesson
-ohtopus|bio|Octopodiformes|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|octopus|Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)|أخطبوط|章鱼|タコ|낙지 (문어)|bạch tuộc|||gurita|pweza|ahtapot||mustekala|ośmiornica
 oke|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptable)||bien (aceptable)|||||大丈夫 (ＯＫ)||||||||akceptebla (okej)|kelpo (okei)|okej, spoko, akceptowalny
 oke loga||||okay (acceptance)||||||||||||||||hyväksyntä|
 oksi|yum 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|oxygen|oxygène|oxígeno|oxigénio|кислород|أكسجين|氧|酸素|산소|oxy, oxi|ऑक्सीजन|অক্সিজেন|oksigen|oksijeni|oksijen|oksigeno|happi|tlen
@@ -2898,6 +2897,7 @@ oste|bode||eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:�
 oste jama||||skeleton (frame)|squelette|esqueleto (armazón)|esqueleto|скелет (остов)||骨骼|骨格||||||||||szkielet
 oste shalke||||scute|scutelle||escudo||||ぜんご||||||||||łuska (blaszka, tarczka)
 Ostria|desha|AT||Austria||Austria||||||||||||||Itävalta|Austria
+otopus|bio|Octopodiformes|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|octopus|Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)|أخطبوط|章鱼|タコ|낙지 (문어)|bạch tuộc|||gurita|pweza|ahtapot||mustekala|ośmiornica
 P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
 pa|||eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)|pere (papa)|padre (papá)|pai|отец (папа)|أَب‎|爸爸|お父さん (父, パパ)|아빠|ba (bố)|पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)|bapa (bapak, ayah)|baba|baba (ata)|patro|isä|ojciec
 pa di||||fatherly (paternal)|paternel|paternal|paternal|отеческий||||||||||||isällinen|
@@ -3747,7 +3747,7 @@ tantal yum|yum 073|Ta|eng:tantalum, fra:tantale, spa:tántalo, por:tântalo, rus
 tanur|||fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr), swa:tanuri|oven (furnace)||horno|||||||||||tanuri||forno|uuni|piec (piekarnik)
 Tanzania|desha|TZ||Tanzania||Tanzania|||||||||||||Tanzanio|Tansania|Tanzania
 tapa|||spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa), eng:tap|stopper (cap, peg, tap)||tapón (tapa)||||||||||||||tulppa (tappi, korkki)|korek, zatyczka, szpunt
-tarif|||eng:tariff, spa:por:tarifa, deu:fra:tur:tarif, ara:(taʿrīf), rus:тариф (tarif), hin:टैरिफ़ (ṭairif)|tarif (tax, duty)||impuesto (tributo, tarifa)||||||||||||||taksa (tariffi)|opłata, taryfa
+tarifa|||eng:tariff, spa:por:tarifa, deu:fra:tur:tarif, ara:(taʿrīf), rus:тариф (tarif), hin:टैरिफ़ (ṭairif)|tarif (tax, duty)||impuesto (tributo, tarifa)||||||||||||||taksa (tariffi)|opłata, taryfa
 tarjum||||translate (interpret)||traducir (interpretar)|||||||||||||traduki|tulkata (kääntää)|przetłumaczyć, tłumaczyć, interpretować
 tarjum ja||||interpreter (translator)||traductor|||||||||||||tradukisto|tulkki (kääntäjä)|tłumacz
 tarjum she|||ara:ترجمة (tarjama), fas:ترجمه (tarjome), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, swa:tarjumi, tur:tercüme|translation (interpretation)|traduction|tradicción (interpretación)||перевод||翻译|||||||tafsiri (tarjumi)||traduko|käännös (tulkinta)|tłumaczenie, interpretacja
@@ -3756,10 +3756,10 @@ tatike|||por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu
 tatu|||eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu), may:tato, sam:tah:tatau, haw:kākau|tattoo||tatuaje||татуировка (тату)|||||||||||tatuo|tatuointi|tatuaż
 tava|||hin:तवा (tavā), tur:tava, fas:(tābe)|frying pan||sartén|||||||||||||pato|pannu (paistinpannu)|patelnia
 taza|||tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|fresh|frais|fresco||свежий||新鲜的|||||||||freŝa|tuore (raikas)|świeży
-tehni|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|technique (technology)|technique|técnica|técnica|техника||技术|技術|기술|kỹ thuật|||teknik||teknik|tekniko|tekniikka (keino, menetelmä)|technika, technologia
-tehni krati||||technocracy||tecnocracia||||||||||||||teknokratia|technokracja
-tehni logi||||technology (study of techniques)|technologie|tecnología||технология||工艺学|||||||||teknologio|tekniikka (teknologia)|technologia, nauka o technikach
-tehni yum|yum 043|Tc|eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم|technetium|technétium|tecnetio|tecnécio|технеций|تكنيتيوم|锝|テクネチウム|테크네튬|tecnexi|टेक्निशियम|টেকনিসিয়াম|teknetium|tekineti|teknesyum|teknecio|teknetium|technet
+tekni|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|technique (technology)|technique|técnica|técnica|техника||技术|技術|기술|kỹ thuật|||teknik||teknik|tekniko|tekniikka (keino, menetelmä)|technika, technologia
+tekni krati||||technocracy||tecnocracia||||||||||||||teknokratia|technokracja
+tekni logi||||technology (study of techniques)|technologie|tecnología||технология||工艺学|||||||||teknologio|tekniikka (teknologia)|technologia, nauka o technikach
+tekni yum|yum 043|Tc|eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم|technetium|technétium|tecnetio|tecnécio|технеций|تكنيتيوم|锝|テクネチウム|테크네튬|tecnexi|टेक्निशियम|টেকনিসিয়াম|teknetium|tekineti|teknesyum|teknecio|teknetium|technet
 tela|||spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala|cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布|||कपड़ा||||||kangas|tkanina (materiał, sukno)
 tela gi|||rus:ткать (tkat’) + may:duk + tur:doku|loom|métier à tisser|telar|tear|ткацкий станок||织机|織機|직기|khung cửi|||||dokuma tezgahı||kutomakone (kangaspuut)|krosno
 tele|||eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|distance (far away)||lo lejos|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
@@ -3856,7 +3856,7 @@ tu|pron.||fra:por:tu, spa:tú, rus:ты (ty), hin:तू (tū), ben:তুই (t
 tu su||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
 tualete|||fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)|toilet (WC)||inodoro (wáter, retrete)||||||||||||||vessa|taleta, WC
 tubo|||spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu, xho:íthumbu|tube (pipe)||tubo|||||||||||||tubo|putki (tuubi)|tuba, rura
-tuh|||hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|spit||escupir (bufar)|||||||||||||sputi|sylkeä|pluć
+tuha|||hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|spit||escupir (bufar)|||||||||||||sputi|sylkeä|pluć
 tul|||eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|tool||herramienta|||||||||||||ilo|työkalu|narzędzie
 Tule||||Thule|Thulé|||Туле|||||||||||Tuleo|Thule|
 tule yum|yum 069|Tm|eng:thulium, fra:thulium, spa:tulio, por:túlio, rus:тулий, zho:铥 (diū), jpn:ツリウム, kor:툴륨, vie:tuli, hin:थुलियम, ben:থুলিয়াম, may:tulium, swa:thuri, ara: ثليوم|thulium|thulium|tulio|túlio|тулий|ثليوم|铥|ツリウム|툴륨|tuli|थुलियम|থুলিয়াম|tulium|thuri|tulyum|tulio|tulium|tul
@@ -3918,7 +3918,7 @@ uze ja||||user||usuario||||||||||||||käyttäjä|użytkownik
 uze ja nam||||username||nombre de usuario||||||||||||||käyttäjänimi|nazwa użytkownika
 V||||V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V
 va|prep.||ara: و‎ (wa), hin:व (va), fas:urd: و‎ (va), tur:ve + yue:和 (wo4), vie:và|with (in the company of; by means of)|avec|con||с||和|||||||||kun (per)|kanssa (-lla, kera; avulla, välineellä)|
-vaf|bio||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
+vau|bio||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
 vafle|yam||eng:waffle, deu:Waffel, rus:вафля (vaflya), zho:窝夫 (wōfū), jpn:ワッフル (waffuru), kor:와플 (wapeul)|waffle|gaufre|gofre|waffle|вафля||窝夫|ワッフル|와플|||||||vaflo|vohveli|
 vagina|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 vagina flam||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
@@ -4045,10 +4045,10 @@ volfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup|lobo|||||||||||||lupo|su
 volfram|yum 074|W|eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi|tungsten (wolfram)|tungstène|tungsteno (wolframio)|tungsténio|вольфрам|تنجستين|钨|タングステン|텅스텐|vonfam|टंग्स्टन|টাংস্টেন|wolfram|wolframi|volfram||volframi|wolfram
 Volof||||Wolof (language and people)|wolof||||||||||||kiwolofu|||wolofin kansa ja kieli|wolof
 volte|unomete|V||volt (V)||voltio (V)||||||||||||||voltti (V)|wolt (V)
+volva|||fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|vulva|vulve|vulva|vulva|вульва||外阴 (陰门)|陰門|음문|âm hộ|||||vulva|vulvo|häpy (ulkosynnyttimet)|srom
 vote|||eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|vote (ballot)||voto|voto|||||||||||||ääni (äänestyksessä)|głos
 vote haki||||franchise (right to vote)||sufragio (derecho al voto)||||||||||||||äänioikeus|prawo wyborcze
-vulva|||fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|vulva|vulve|vulva|vulva|вульва||外阴 (陰门)|陰門|음문|âm hộ|||||vulva|vulvo|häpy (ulkosynnyttimet)|srom
-vutu|||zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|object (item, thing)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
+votu|||zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|object (item, thing)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xenon|yum 054|Xe|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|xenon|xénon|xenón|xénon|ксенон|إكسينون|氙|キセノン|크세논|xenon|ज़ेनान|জেনন|xenon|zenoni|ksenon|ksenono|ksenon|ksenon
 Y||||Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
